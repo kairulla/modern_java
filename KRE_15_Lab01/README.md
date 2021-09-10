@@ -1,10 +1,7 @@
 ![screenshot](screenshots/Screenshot_2021-09-10_18-22-44.png)
-![screenshot](screenshots/Screenshot_2021-09-10_20-34-45.png)
-![screenshot](screenshots/Screenshot_2021-09-10_20-35-48.png)
-![screenshot](screenshots/Screenshot_2021-09-10_20-36-42.png)
 
-Смысл в том что при x >= 8 выполняется первая строчка системы уравнений,
-а при x < 8 выполняется вторая строчка системы уравнений.
+# Смысл в том что при x >= 8 выполняется первая строчка системы уравнений,
+# а при x < 8 выполняется вторая строчка системы уравнений.
 
 ```
 package kre_15_lab01;
@@ -44,3 +41,7 @@ public class Lab01 {
     }
 }
 ```
+
+![screenshot](screenshots/Screenshot_2021-09-10_20-34-45.png)
+![screenshot](screenshots/Screenshot_2021-09-10_20-35-48.png)
+![screenshot](screenshots/Screenshot_2021-09-10_20-36-42.png)
